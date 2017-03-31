@@ -1,3 +1,4 @@
+
 # == Class: selinux
 #
 # This module manages the SELinux configuration file.
